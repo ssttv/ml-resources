@@ -4,3 +4,4 @@ This file includes links to the hard-to-locate datasets for CT images of biologi
 - [DICOM Image Sample Set](http://www.osirix-viewer.com/resources/dicom-image-library/)
 - [Cancer Imaging Archive](http://www.cancerimagingarchive.net/)
 - [Cornell University Public Image Database](http://www.via.cornell.edu/databases/)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
