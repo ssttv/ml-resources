@@ -8,4 +8,4 @@ This file includes links to the hard-to-locate datasets for CT images of biologi
 - [BioGPS Datasets](http://biogps.org/dataset/)
 - [Open Access Medical Image Repository](http://www.aylward.org/notes/open-access-medical-image-repositories)
 - [CV Online Image Database](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm#biomed)
- [National Alliance for Medical Imaging Community](http://www.insight-journal.org/midas/community/view/17)
+- [National Alliance for Medical Imaging Community](http://www.insight-journal.org/midas/community/view/17)
