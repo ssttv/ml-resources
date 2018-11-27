@@ -8,4 +8,4 @@ A personal collection of resources, articles and datasets relevant to my interes
 - [Basic book pack for statistics (Medium)](https://medium.com/@datalab/aspiring-data-scientists-start-to-learn-statistics-with-these-6-books-a33bbb55b8e9)
 - [Semantic segmentation guide for PyTorch](https://signalvnoise.com/posts/2380-you-couldnt-pay-me-to-work-for-ballmer)
 - [Building a YOLO image detector with PyTorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/), and it comes in several parts
-[Text clustering with transformed document vectors (Medium)](https://towardsdatascience.com/clustering-text-with-transformed-document-vectors-1e14c9f0f198)
+- [Text clustering with transformed document vectors (Medium)](https://towardsdatascience.com/clustering-text-with-transformed-document-vectors-1e14c9f0f198)
