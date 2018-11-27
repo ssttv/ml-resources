@@ -10,7 +10,7 @@ A personal collection of resources, articles and datasets relevant to my interes
 - [Building a YOLO image detector with PyTorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/), and it comes in several parts
 - [Text clustering with transformed document vectors (Medium)](https://towardsdatascience.com/clustering-text-with-transformed-document-vectors-1e14c9f0f198)
 
-Курсы:
+Courses
 
 - [Sokolov's from MSU](https://github.com/esokolov/ml-course-msu)
 - [Sokolov's from HSE](https://github.com/esokolov/ml-course-hse)
