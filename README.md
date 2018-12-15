@@ -9,7 +9,7 @@ A personal collection of resources, articles and datasets relevant to my interes
 - [Semantic segmentation guide for PyTorch](https://signalvnoise.com/posts/2380-you-couldnt-pay-me-to-work-for-ballmer)
 - [Building a YOLO image detector with PyTorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/), and it comes in several parts
 - [Text clustering with transformed document vectors (Medium)](https://towardsdatascience.com/clustering-text-with-transformed-document-vectors-1e14c9f0f198)
-- [Neural Ordinary Differential Equations (arxiv)]https://arxiv.org/abs/1806.07366
+- [Neural Ordinary Differential Equations (arxiv)](https://arxiv.org/abs/1806.07366)
 
 Courses
 
