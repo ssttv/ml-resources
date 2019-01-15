@@ -9,7 +9,7 @@ A personal collection of resources, articles and datasets relevant to my interes
 - [Essential math for data science (Medium)](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd)
 - [Data visualisation in Python with plotly (Medium)](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 - [Docker introduction (Medium)](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
-[Docker contaners vs. V<s (Medium)](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
+[Docker contaners vs. VMs (Medium)](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
 - [Semantic segmentation guide for PyTorch](https://signalvnoise.com/posts/2380-you-couldnt-pay-me-to-work-for-ballmer)
 - [Building a YOLO image detector with PyTorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/), and it comes in several parts
 - [Text clustering with transformed document vectors (Medium)](https://towardsdatascience.com/clustering-text-with-transformed-document-vectors-1e14c9f0f198)
