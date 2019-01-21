@@ -23,3 +23,4 @@ Courses
 - [Open-sourced course from the ODS people](https://mlcourse.ai)
 
 PyImageSearch articles
+- [Regression with Keras](https://www.pyimagesearch.com/2019/01/21/regression-with-keras/?__s=89qunbiazfzbwbuzekcs)
