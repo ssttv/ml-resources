@@ -25,5 +25,6 @@ Courses
 PyImageSearch articles
 - [Keras *fit* and *fit_generator*](https://www.pyimagesearch.com/2018/12/24/how-to-use-keras-fit-and-fit_generator-a-hands-on-tutorial/)
 - [Saving and loading models in Keras](https://www.pyimagesearch.com/2018/12/10/keras-save-and-load-your-deep-learning-models/)
+- [Keras Conv2D & Convolutional Layers](https://www.pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/)
 - [Deep learning and medical image analysis with Keras](https://www.pyimagesearch.com/2018/12/03/deep-learning-and-medical-image-analysis-with-keras/)
 - [Regression with Keras](https://www.pyimagesearch.com/2019/01/21/regression-with-keras/?__s=89qunbiazfzbwbuzekcs)
