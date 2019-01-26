@@ -15,7 +15,7 @@ A personal collection of resources, articles and datasets relevant to my interes
 - [Text clustering with transformed document vectors (Medium)](https://towardsdatascience.com/clustering-text-with-transformed-document-vectors-1e14c9f0f198)
 - [Stock predictions with GNNs (Medium)](https://towardsdatascience.com/aifortrading-2edd6fac689d)
 - [Neural ordinary differential equations (arxiv)](https://arxiv.org/abs/1806.07366)
-[Long's paper on CNNs](https://vk.com/away.php?to=https%3A%2F%2Fpeople.eecs.berkeley.edu%2F%7Ejonlong%2Flong_shelhamer_fcn.pdf&cc_key=)
+- [Long's paper on CNNs](https://vk.com/away.php?to=https%3A%2F%2Fpeople.eecs.berkeley.edu%2F%7Ejonlong%2Flong_shelhamer_fcn.pdf&cc_key=)
 Courses
 
 - [Sokolov's from MSU](https://github.com/esokolov/ml-course-msu)
