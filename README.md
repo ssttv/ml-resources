@@ -21,6 +21,7 @@ Courses
 - [Sokolov's from MSU](https://github.com/esokolov/ml-course-msu)
 - [Sokolov's from HSE](https://github.com/esokolov/ml-course-hse)
 - [Open-sourced course from the ODS people](https://mlcourse.ai)
+- [Open-source Data Science Masters'](https://github.com/datasciencemasters/go)
 - [Data Pipelines Course from Kaggle](https://www.kaggle.com/professional-skills-series#pipelines?utm_medium=email&utm_source=intercom&utm_campaign=pipelines-event)
 
 PyImageSearch articles
