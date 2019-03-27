@@ -13,7 +13,7 @@ A personal collection of resources, articles and datasets relevant to my interes
 - [Semantic segmentation guide for PyTorch](https://signalvnoise.com/posts/2380-you-couldnt-pay-me-to-work-for-ballmer)
 - [Building a YOLO image detector with PyTorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/), and it comes in several parts
 - [Text clustering with transformed document vectors (Medium)](https://towardsdatascience.com/clustering-text-with-transformed-document-vectors-1e14c9f0f198)
-- [https://towardsdatascience.com/gans-vs-odes-the-end-of-mathematical-modeling-ec158f04acb9]
+- [GAN vs. ODEs (Medium)](https://towardsdatascience.com/gans-vs-odes-the-end-of-mathematical-modeling-ec158f04acb9)
 - [Stock predictions with GNNs (Medium)](https://towardsdatascience.com/aifortrading-2edd6fac689d)
 - [Neural ordinary differential equations (arxiv)](https://arxiv.org/abs/1806.07366)
 - [Long's paper on CNNs](https://vk.com/away.php?to=https%3A%2F%2Fpeople.eecs.berkeley.edu%2F%7Ejonlong%2Flong_shelhamer_fcn.pdf&cc_key=)
