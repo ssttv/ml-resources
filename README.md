@@ -8,6 +8,7 @@ A personal collection of resources, articles and datasets relevant to my interes
 - [Basic book pack for statistics (Medium)](https://medium.com/@datalab/aspiring-data-scientists-start-to-learn-statistics-with-these-6-books-a33bbb55b8e9)
 - [Essential math for data science (Medium)](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd)
 - [Data visualisation in Python with plotly (Medium)](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
+https://towardsdatascience.com/tutorial-build-an-object-detection-system-using-yolo-9a930513643a
 - [Docker introduction (Medium)](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
 - [Docker contaners vs. VMs (Medium)](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
 - [Semantic segmentation guide for PyTorch](https://signalvnoise.com/posts/2380-you-couldnt-pay-me-to-work-for-ballmer)
