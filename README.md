@@ -29,7 +29,7 @@ Courses
 PyImageSearch articles
 - [Saving and loading models in Keras](https://www.pyimagesearch.com/2018/12/10/keras-save-and-load-your-deep-learning-models/)
 - [Keras *fit* and *fit_generator*](https://www.pyimagesearch.com/2018/12/24/how-to-use-keras-fit-and-fit_generator-a-hands-on-tutorial/)
-- [Keras Conv2D & Convolutional Layers](https://www.pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/)
+- [Keras Conv2D & convolutional layers](https://www.pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/)
 - [Deep learning and medical image analysis with Keras](https://www.pyimagesearch.com/2018/12/03/deep-learning-and-medical-image-analysis-with-keras/)
 - [Regression with Keras](https://www.pyimagesearch.com/2019/01/21/regression-with-keras/?__s=89qunbiazfzbwbuzekcs)
 - YOLO segmentation, [part one](https://vk.com/away.php?to=https%3A%2F%2Fwww.pyimagesearch.com%2F2017%2F09%2F11%2Fobject-detection-with-deep-learning-and-opencv%2F&cc_key=) and [two](https://vk.com/away.php?to=https%3A%2F%2Fwww.pyimagesearch.com%2F2018%2F11%2F12%2Fyolo-object-detection-with-opencv%2F&cc_key=)
