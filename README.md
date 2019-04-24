@@ -14,7 +14,7 @@ A personal collection of resources, articles and datasets relevant to my interes
 - [Building a YOLO image detector with PyTorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/), and it comes in several parts
 - [Prediction of house prices with Keras](https://medium.freecodecamp.org/how-to-build-your-first-neural-network-to-predict-house-prices-with-keras-f8db83049159?source=extreme_main_feed---------7-58--------------------1555955825000&gi=d801628f4c5f)
 - [Complete object detection system with YOLO detector (Medium)](https://towardsdatascience.com/tutorial-build-an-object-detection-system-using-yolo-9a930513643a)
-[Detecting malaria with deep learning (Medium)](https://towardsdatascience.com/detecting-malaria-with-deep-learning-9e45c1e34b60)
+- [Detecting malaria with deep learning (Medium)](https://towardsdatascience.com/detecting-malaria-with-deep-learning-9e45c1e34b60)
 - [Text clustering with transformed document vectors (Medium)](https://towardsdatascience.com/clustering-text-with-transformed-document-vectors-1e14c9f0f198)
 - [GAN vs. ODEs (Medium)](https://towardsdatascience.com/gans-vs-odes-the-end-of-mathematical-modeling-ec158f04acb9)
 - [Stock predictions with GNNs (Medium)](https://towardsdatascience.com/aifortrading-2edd6fac689d)
