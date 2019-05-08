@@ -3,7 +3,7 @@ A personal collection of resources, articles and datasets relevant to my interes
 
 - [List of image datasets for biomechanical modelling](https://github.com/ssttv/ml-resources/blob/master/bio-image-datasets.md/)
 - [Python libraries for comfortable research](https://datahub.packtpub.com/deep-learning/15-useful-python-libraries-to-make-your-data-science-tasks-easier/)
-[Deploying a Python web app on AWS](https://towardsdatascience.com/deploying-a-python-web-app-on-aws-57ed772b2319)
+ - [Deploying a Python web app on AWS](https://towardsdatascience.com/deploying-a-python-web-app-on-aws-57ed772b2319)
 - [Front-end automation with deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
 - [Basic book pack for DS](https://hackernoon.com/wannabe-data-scientists-learn-the-basics-with-these-7-books-1a41cfbbdd34)
 - [Basic book pack for statistics (Medium)](https://medium.com/@datalab/aspiring-data-scientists-start-to-learn-statistics-with-these-6-books-a33bbb55b8e9)
