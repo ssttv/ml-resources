@@ -9,7 +9,7 @@ A personal collection of resources, articles and datasets relevant to my interes
 - [Basic book pack for statistics (Medium)](https://medium.com/@datalab/aspiring-data-scientists-start-to-learn-statistics-with-these-6-books-a33bbb55b8e9)
 - [Essential math for data science (Medium)](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd)
 - [Data visualisation in Python with plotly (Medium)](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
-- [Interactive data visualization with plotly (Nedium)](https://towardsdatascience.com/its-2019-make-your-data-visualizations-interactive-with-plotly-b361e7d45dc6)
+- [Interactive data visualization with plotly (Medium)](https://towardsdatascience.com/its-2019-make-your-data-visualizations-interactive-with-plotly-b361e7d45dc6)
 - [Docker introduction (Medium)](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
 - [Docker contaners vs. VMs (Medium)](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
 - [Semantic segmentation guide for PyTorch](https://signalvnoise.com/posts/2380-you-couldnt-pay-me-to-work-for-ballmer)
