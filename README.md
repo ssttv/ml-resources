@@ -41,4 +41,4 @@ PyImageSearch articles
 - YOLO segmentation, [part one](https://vk.com/away.php?to=https%3A%2F%2Fwww.pyimagesearch.com%2F2017%2F09%2F11%2Fobject-detection-with-deep-learning-and-opencv%2F&cc_key=) and [two](https://vk.com/away.php?to=https%3A%2F%2Fwww.pyimagesearch.com%2F2018%2F11%2F12%2Fyolo-object-detection-with-opencv%2F&cc_key=)
 - [Keras and TensorFlow](https://www.pyimagesearch.com/2018/10/08/keras-vs-tensorflow-which-one-is-better-and-which-one-should-i-learn/)
 - [Nested edge detection](https://www.pyimagesearch.com/2019/03/04/holistically-nested-edge-detection-with-opencv-and-deep-learning/)
-[Google Coral for object detection and image classification](https://www.pyimagesearch.com/2019/05/13/object-detection-and-image-classification-with-google-coral-usb-accelerator/?__s=89qunbiazfzbwbuzekcs)
+- [Google Coral for object detection and image classification](https://www.pyimagesearch.com/2019/05/13/object-detection-and-image-classification-with-google-coral-usb-accelerator/?__s=89qunbiazfzbwbuzekcs)
