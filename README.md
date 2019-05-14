@@ -22,7 +22,7 @@ A personal collection of resources, articles and datasets relevant to my interes
 - [GAN vs. ODEs (Medium)](https://towardsdatascience.com/gans-vs-odes-the-end-of-mathematical-modeling-ec158f04acb9)
 - [Stock predictions with GNNs (Medium)](https://towardsdatascience.com/aifortrading-2edd6fac689d)
 - [Turing learning and GANs (Medium)](https://towardsdatascience.com/comprehensive-introduction-to-turing-learning-and-gans-part-1-81f6d02e644d?source=extreme_main_feed---------0-49----------1af65db9c2f8----------1557248363000)
-- [Ant colony and genetic evolution for ride sharing trip duration optimization](https://towardsdatascience.com/using-ant-colony-and-genetic-evolution-to-optimize-ride-sharing-trip-duration-56194215923f)
+- [Ant colony and genetic evolution for ride sharing trip duration optimization (Medium)](https://towardsdatascience.com/using-ant-colony-and-genetic-evolution-to-optimize-ride-sharing-trip-duration-56194215923f)
 - [Neural ordinary differential equations (arxiv)](https://arxiv.org/abs/1806.07366)
 - [Long's paper on CNNs](https://vk.com/away.php?to=https%3A%2F%2Fpeople.eecs.berkeley.edu%2F%7Ejonlong%2Flong_shelhamer_fcn.pdf&cc_key=)
 Courses
